@@ -2,4 +2,3 @@
 
 - Spring Cloud Netflix Eureka Server
 
-_Feito sem IA!!!_
